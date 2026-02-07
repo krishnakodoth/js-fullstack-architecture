@@ -1,0 +1,12 @@
+# MySQL Database Configuration
+MYSQL_HOST=localhost
+MYSQL_USER=<your_mysql_user>
+MYSQL_PASSWORD=<your_mysql_password>
+MYSQL_DATABASE=<database_name>
+
+# MongoDB Configuration (if needed)
+MONGODB_URI=<your_mongodb_connection_string>
+
+# Server Configuration
+PORT=3000
+NODE_ENV=development
