@@ -1,0 +1,9 @@
+# MySQL Database Configuration
+DATABASE_URL=mysql://<user>>:<password>@localhost:3306/<db_name>
+
+# MongoDB Configuration (if needed)
+MONGODB_URI=<your_mongodb_connection_string>
+
+# Server Configuration
+PORT=3000
+NODE_ENV=development
